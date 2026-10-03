@@ -19,13 +19,13 @@ return {
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.full-dadbod" },
 
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-paper-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
 
   { import = "astrocommunity.diagnostics.trouble-nvim" },
-  { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.search.grug-far-nvim" },
 
